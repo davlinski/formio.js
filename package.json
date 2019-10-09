@@ -1,7 +1,7 @@
 {
   "name": "formiojs",
-  "version": "3.28.2",
-  "description": "Common js library for client side interaction with <form.io>",
+  "version": "3.60.0",
+  "description": "Common js library for building form JSON. Veering off from Form.io and headed toward Ngx-Formly.",
   "main": "index.js",
   "files": [
     "dist",
