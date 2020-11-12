@@ -63,7 +63,7 @@
     "flatpickr": "4.6.2",
     "i18next": "^17.0.18",
     "idb": "^4.0.5",
-    "json-logic-js": "^1.2.2",
+    "json-logic-js": "^2.0.0",
     "jstimezonedetect": "^1.0.7",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
